@@ -1,5 +1,0 @@
-# vg_account_confirm
-
-* Key: c4327348f78dd4aecaddaeaa6950901db50bcf2b71607332b149b4d0fceef887
-* Key: 5482cf58c8a7a58b97a7e26474d8dfbf7b9cafd283e984222fbfcd458fdcf884 
-* Key: 88725de6db5a9cfbfa0e4d1c312d5ef83a7547e45cc68622806d4310aaefae80
